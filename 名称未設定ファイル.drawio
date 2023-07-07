@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T02:49:00.458Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YufBSSjivkaoA_lTVgte" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T04:26:47.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pt4R0JQYBZU6ZAnjFrkf" version="21.6.1" type="github">
   <diagram name="ページ1" id="xwieQ8OmtwnucT-wFw41">
-    <mxGraphModel dx="972" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QlMEVpn3lmxcFy2L6wsP-1" value="users&lt;br&gt;&lt;br&gt;- id&lt;br&gt;- name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QlMEVpn3lmxcFy2L6wsP-1" value="users&lt;br&gt;&lt;br&gt;- id&lt;br&gt;- name&lt;br&gt;- kana_name&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="140" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="JBNGJu1-4gIMe9xt3pvD-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JBNGJu1-4gIMe9xt3pvD-1" target="QlMEVpn3lmxcFy2L6wsP-1" edge="1">
@@ -13,10 +13,10 @@
         <mxCell id="JBNGJu1-4gIMe9xt3pvD-1" value="phones&lt;br&gt;&lt;br&gt;- user_id&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Acmqzsl1C02JlAo9vbEp-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Acmqzsl1C02JlAo9vbEp-1" target="QlMEVpn3lmxcFy2L6wsP-1">
+        <mxCell id="Acmqzsl1C02JlAo9vbEp-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Acmqzsl1C02JlAo9vbEp-1" target="QlMEVpn3lmxcFy2L6wsP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Acmqzsl1C02JlAo9vbEp-1" value="bank_accounts&lt;br&gt;&lt;br&gt;- user_id&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Acmqzsl1C02JlAo9vbEp-1" value="bank_accounts&lt;br&gt;&lt;br&gt;- user_id&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
